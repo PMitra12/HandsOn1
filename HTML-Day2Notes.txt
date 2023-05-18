@@ -1,0 +1,9 @@
+Absolute path of img tag (self closing tag)
+contents: between the tags
+elements: tags along with along with context
+
+1) <ins> - for underlining
+
+2) By default the 
+
+

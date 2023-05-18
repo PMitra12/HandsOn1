@@ -1,0 +1,11 @@
+handson 2
+
+step 1 -- H1 tag
+step 2 -- a (anchor tag)
+step3 -- html page
+step 4 -- load a img from local storage
+step 5 -- load a img from internet
+step 6 -- 
+
+hr tag is for horizontal line
+br tag is used for horizontal line
